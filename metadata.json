@@ -1,0 +1,5 @@
+{
+  "name": "Niche AI Search Pro",
+  "description": "AI-powered custom Google-style search — fast, accurate results with real-time grounding and specialized knowledge.",
+  "requestFramePermissions": ["microphone"]
+}
